@@ -1,6 +1,9 @@
-Compilable 1.0
+Compilable 2.0
 
-The program just needs to be invoked.
+This program just needs to be invoked.
 
-It does not perform operations yet because the main()- definition uses up
-all code space of 8 bytes.
+The code was improved a little by setting the curly brackets into the
+next line to make it a little more clearly.
+
+The program does not perform anything because the code space of 9 bytes
+is completely used up by the definition of main().
