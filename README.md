@@ -1,4 +1,4 @@
 # Compilable
 First compilable programs
 
-Code space: 8 bytes
+Code space: 9 bytes
