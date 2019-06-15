@@ -1,9 +1,9 @@
-Compilable 2.0
+Compilable 3.0
 
-This program just needs to be invoked.
+The closing curly bracket was set into the next line to make the code look
+more clearly.
 
-The code was improved a little by setting the curly brackets into the
-next line to make it a little more clearly.
+The program just needs to be invoked.
 
-The program does not perform anything because the code space of 9 bytes
-is completely used up by the definition of main().
+The program does not perform any actions yet because the whole code space of
+10 bytes was used up by the implementation of main() itself.
