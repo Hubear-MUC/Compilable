@@ -1,4 +1,6 @@
 # Compilable
-First compilable programs
+First compilable programs.
+
+See "readme.txt" for more details.
 
 Code space: 10 bytes
