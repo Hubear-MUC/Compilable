@@ -3,4 +3,4 @@ First compilable programs.
 
 See "readme.txt" for more details.
 
-Code space: 12 bytes
+Code space: 13 bytes
