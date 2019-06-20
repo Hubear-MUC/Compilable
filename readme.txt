@@ -1,6 +1,9 @@
-The code of this version was equipped with an empty remark to place some
-code between the curly brackets of main().
+Compilable 6.0
+
+The comment in the function body got equipped with an asterisk to make it
+look more nice.
 
 The program just needs to be invoked.
 
-The program does not perform any action yet.
+The program does not perform any action because the main()- function just
+contains a comment.
